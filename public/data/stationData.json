@@ -1,0 +1,2722 @@
+{
+  "defaultRadius": 200,
+  "pois": [{
+    "name": "Acton Town Station",
+    "tflMapX": 706,
+    "tflMapY": 1503,
+    "tflMapRelX": -1254,
+    "tflMapRelY": 272,
+    "longitude": -0.280251204,
+    "latitude": 51.50274977,
+    "meta": "Acton Town Station"
+  }, {
+    "name": "Aldgate East Station",
+    "tflMapX": 2687,
+    "tflMapY": 1279,
+    "tflMapRelX": 727,
+    "tflMapRelY": 48,
+    "longitude": -0.07228712,
+    "latitude": 51.51523341,
+    "meta": "Aldgate East Station"
+  }, {
+    "name": "Aldgate Station",
+    "tflMapX": 2589,
+    "tflMapY": 1296,
+    "tflMapRelX": 629,
+    "tflMapRelY": 65,
+    "longitude": -0.075614184,
+    "latitude": 51.51427182,
+    "meta": "Aldgate Station"
+  }, {
+    "name": "All Saints Station",
+    "tflMapX": 2956,
+    "tflMapY": 1307,
+    "tflMapRelX": 996,
+    "tflMapRelY": 76,
+    "longitude": -0.01275175,
+    "latitude": 51.51101008,
+    "meta": "All Saints Station"
+  }, {
+    "name": "Alperton Station",
+    "tflMapX": 688,
+    "tflMapY": 828,
+    "tflMapRelX": -1272,
+    "tflMapRelY": -403,
+    "longitude": -0.299486539,
+    "latitude": 51.54069477,
+    "meta": "Alperton Station"
+  }, {
+    "name": "Amersham Station",
+    "tflMapX": 175,
+    "tflMapY": 148,
+    "tflMapRelX": -1785,
+    "tflMapRelY": -1083,
+    "longitude": -0.607478839,
+    "latitude": 51.67414971,
+    "meta": "Amersham Station"
+  }, {
+    "name": "Angel Station",
+    "tflMapX": 2268,
+    "tflMapY": 988,
+    "tflMapRelX": 308,
+    "tflMapRelY": -243,
+    "longitude": -0.105789914,
+    "latitude": 51.53249887,
+    "meta": "Angel Station"
+  }, {
+    "name": "Archway Station",
+    "tflMapX": 2160,
+    "tflMapY": 524,
+    "tflMapRelX": 200,
+    "tflMapRelY": -707,
+    "longitude": -0.135113518,
+    "latitude": 51.56542675,
+    "meta": "Archway Station"
+  }, {
+    "name": "Arnos Grove Station",
+    "tflMapX": 2578,
+    "tflMapY": 293,
+    "tflMapRelX": 618,
+    "tflMapRelY": -938,
+    "longitude": -0.13351631,
+    "latitude": 51.61634026,
+    "meta": "Arnos Grove Station"
+  }, {
+    "name": "Arsenal Station",
+    "tflMapX": 2504,
+    "tflMapY": 627,
+    "tflMapRelX": 544,
+    "tflMapRelY": -604,
+    "longitude": -0.105761988,
+    "latitude": 51.55849877,
+    "meta": "Arsenal Station"
+  }, {
+    "name": "Baker Street Station",
+    "tflMapX": 1705,
+    "tflMapY": 1016,
+    "tflMapRelX": -255,
+    "tflMapRelY": -215,
+    "longitude": -0.156900356,
+    "latitude": 51.52306125,
+    "meta": "Baker Street Station"
+  }, {
+    "name": "Balham Station",
+    "tflMapX": 1696,
+    "tflMapY": 2229,
+    "tflMapRelX": -264,
+    "tflMapRelY": 998,
+    "longitude": -0.153207553,
+    "latitude": 51.44332898,
+    "meta": "Balham Station"
+  }, {
+    "name": "Bank Station",
+    "tflMapX": 2322,
+    "tflMapY": 1299,
+    "tflMapRelX": 362,
+    "tflMapRelY": 68,
+    "longitude": -0.088915809,
+    "latitude": 51.51330237,
+    "meta": "Bank Station"
+  }, {
+    "name": "Barbican Station",
+    "tflMapX": 2298,
+    "tflMapY": 1123,
+    "tflMapRelX": 338,
+    "tflMapRelY": -108,
+    "longitude": -0.097711123,
+    "latitude": 51.52014573,
+    "meta": "Barbican Station"
+  }, {
+    "name": "Barking Station",
+    "tflMapX": 3410,
+    "tflMapY": 958,
+    "tflMapRelX": 1450,
+    "tflMapRelY": -273,
+    "longitude": 0.080863183,
+    "latitude": 51.53945121,
+    "meta": "Barking Station"
+  }, {
+    "name": "Barkingside Station",
+    "tflMapX": 3437,
+    "tflMapY": 460,
+    "tflMapRelX": 1477,
+    "tflMapRelY": -771,
+    "longitude": 0.088511014,
+    "latitude": 51.58578596,
+    "meta": "Barkingside Station"
+  }, {
+    "name": "Barons Court Station",
+    "tflMapX": 1194,
+    "tflMapY": 1508,
+    "tflMapRelX": -766,
+    "tflMapRelY": 277,
+    "longitude": -0.213606857,
+    "latitude": 51.49015994,
+    "meta": "Barons Court Station"
+  }, {
+    "name": "Bayswater Station",
+    "tflMapX": 1369,
+    "tflMapY": 1132,
+    "tflMapRelX": -591,
+    "tflMapRelY": -99,
+    "longitude": -0.188038262,
+    "latitude": 51.51223306,
+    "meta": "Bayswater Station"
+  }, {
+    "name": "Beckton Park Station",
+    "tflMapX": 3611,
+    "tflMapY": 1508,
+    "tflMapRelX": 1651,
+    "tflMapRelY": 277,
+    "longitude": 0.054897747,
+    "latitude": 51.50894379,
+    "meta": "Beckton Park Station"
+  }, {
+    "name": "Beckton Station",
+    "tflMapX": 3743,
+    "tflMapY": 1640,
+    "tflMapRelX": 1783,
+    "tflMapRelY": 409,
+    "longitude": 0.060942442,
+    "latitude": 51.51513328,
+    "meta": "Beckton Station"
+  }, {
+    "name": "Becontree Station",
+    "tflMapX": 3502,
+    "tflMapY": 872,
+    "tflMapRelX": 1542,
+    "tflMapRelY": -359,
+    "longitude": 0.127400321,
+    "latitude": 51.54028854,
+    "meta": "Becontree Station"
+  }, {
+    "name": "Belsize Park Station",
+    "tflMapX": 1934,
+    "tflMapY": 677,
+    "tflMapRelX": -26,
+    "tflMapRelY": -554,
+    "longitude": -0.164232306,
+    "latitude": 51.55042663,
+    "meta": "Belsize Park Station"
+  }, {
+    "name": "Bermondsey Station",
+    "tflMapX": 2550,
+    "tflMapY": 1547,
+    "tflMapRelX": 590,
+    "tflMapRelY": 316,
+    "longitude": -0.063651351,
+    "latitude": 51.49794912,
+    "meta": "Bermondsey Station"
+  }, {
+    "name": "Bethnal Green Station",
+    "tflMapX": 2797,
+    "tflMapY": 1089,
+    "tflMapRelX": 837,
+    "tflMapRelY": -142,
+    "longitude": -0.055431117,
+    "latitude": 51.52719524,
+    "meta": "Bethnal Green Station"
+  }, {
+    "name": "Blackfriars Station",
+    "tflMapX": 2222,
+    "tflMapY": 1476,
+    "tflMapRelX": 262,
+    "tflMapRelY": 245,
+    "longitude": -0.103606731,
+    "latitude": 51.51149052,
+    "meta": "Blackfriars Station"
+  }, {
+    "name": "Blackhorse Road Station",
+    "tflMapX": 2860,
+    "tflMapY": 558,
+    "tflMapRelX": 900,
+    "tflMapRelY": -673,
+    "longitude": -0.040996341,
+    "latitude": 51.5869512,
+    "meta": "Blackhorse Road Station"
+  }, {
+    "name": "Blackwall Station",
+    "tflMapX": 3051,
+    "tflMapY": 1368,
+    "tflMapRelX": 1091,
+    "tflMapRelY": 137,
+    "longitude": -0.007108497,
+    "latitude": 51.50821611,
+    "meta": "Blackwall Station"
+  }, {
+    "name": "Bond Street Station",
+    "tflMapX": 1669,
+    "tflMapY": 1201,
+    "tflMapRelX": -291,
+    "tflMapRelY": -30,
+    "longitude": -0.149332355,
+    "latitude": 51.51380454,
+    "meta": "Bond Street Station"
+  }, {
+    "name": "Borough Station",
+    "tflMapX": 2152,
+    "tflMapY": 1776,
+    "tflMapRelX": 192,
+    "tflMapRelY": 545,
+    "longitude": -0.093702665,
+    "latitude": 51.501194,
+    "meta": "Borough Station"
+  }, {
+    "name": "Boston Manor Station",
+    "tflMapX": 561,
+    "tflMapY": 1607,
+    "tflMapRelX": -1399,
+    "tflMapRelY": 376,
+    "longitude": -0.324763574,
+    "latitude": 51.49569638,
+    "meta": "Boston Manor Station"
+  }, {
+    "name": "Bounds Green Station",
+    "tflMapX": 2577,
+    "tflMapY": 343,
+    "tflMapRelX": 617,
+    "tflMapRelY": -888,
+    "longitude": -0.124218963,
+    "latitude": 51.60709056,
+    "meta": "Bounds Green Station"
+  }, {
+    "name": "Bow Church Station",
+    "tflMapX": 2956,
+    "tflMapY": 1165,
+    "tflMapRelX": 996,
+    "tflMapRelY": -66,
+    "longitude": -0.020691424,
+    "latitude": 51.52733311,
+    "meta": "Bow Church Station"
+  }, {
+    "name": "Bow Road Station",
+    "tflMapX": 2996,
+    "tflMapY": 1124,
+    "tflMapRelX": 1036,
+    "tflMapRelY": -107,
+    "longitude": -0.024823747,
+    "latitude": 51.52680025,
+    "meta": "Bow Road Station"
+  }, {
+    "name": "Brent Cross Station",
+    "tflMapX": 1749,
+    "tflMapY": 492,
+    "tflMapRelX": -211,
+    "tflMapRelY": -739,
+    "longitude": -0.213455834,
+    "latitude": 51.57680047,
+    "meta": "Brent Cross Station"
+  }, {
+    "name": "Brixton Station",
+    "tflMapX": 1982,
+    "tflMapY": 2139,
+    "tflMapRelX": 22,
+    "tflMapRelY": 908,
+    "longitude": -0.114635582,
+    "latitude": 51.46258133,
+    "meta": "Brixton Station"
+  }, {
+    "name": "Bromley-By-Bow Station",
+    "tflMapX": 3110,
+    "tflMapY": 1124,
+    "tflMapRelX": 1150,
+    "tflMapRelY": -107,
+    "longitude": -0.011661937,
+    "latitude": 51.52476994,
+    "meta": "Bromley-By-Bow Station"
+  }, {
+    "name": "Buckhurst Hill Station",
+    "tflMapX": 3207,
+    "tflMapY": 234,
+    "tflMapRelX": 1247,
+    "tflMapRelY": -997,
+    "longitude": 0.046743856,
+    "latitude": 51.62651733,
+    "meta": "Buckhurst Hill Station"
+  }, {
+    "name": "Burnt Oak Station",
+    "tflMapX": 1612,
+    "tflMapY": 355,
+    "tflMapRelX": -348,
+    "tflMapRelY": -876,
+    "longitude": -0.264198758,
+    "latitude": 51.6026811,
+    "meta": "Burnt Oak Station"
+  }, {
+    "name": "Caledonian Road Station",
+    "tflMapX": 2396,
+    "tflMapY": 737,
+    "tflMapRelX": 436,
+    "tflMapRelY": -494,
+    "longitude": -0.118312333,
+    "latitude": 51.54842132,
+    "meta": "Caledonian Road Station"
+  }, {
+    "name": "Camden Town Station",
+    "tflMapX": 2029,
+    "tflMapY": 800,
+    "tflMapRelX": 69,
+    "tflMapRelY": -431,
+    "longitude": -0.142726149,
+    "latitude": 51.53940352,
+    "meta": "Camden Town Station"
+  }, {
+    "name": "Canada Water Station",
+    "tflMapX": 2729,
+    "tflMapY": 1547,
+    "tflMapRelX": 769,
+    "tflMapRelY": 316,
+    "longitude": -0.049705987,
+    "latitude": 51.49788868,
+    "meta": "Canada Water Station"
+  }, {
+    "name": "Canary Wharf Station",
+    "tflMapX": 2957,
+    "tflMapY": 1547,
+    "tflMapRelX": 997,
+    "tflMapRelY": 316,
+    "longitude": -0.019431816,
+    "latitude": 51.50355049,
+    "meta": "Canary Wharf Station"
+  }, {
+    "name": "Canning Town Station",
+    "tflMapX": 3172,
+    "tflMapY": 1369,
+    "tflMapRelX": 1212,
+    "tflMapRelY": 138,
+    "longitude": 0.008171037,
+    "latitude": 51.51383713,
+    "meta": "Canning Town Station"
+  }, {
+    "name": "Cannon Street Station",
+    "tflMapX": 2291,
+    "tflMapY": 1406,
+    "tflMapRelX": 331,
+    "tflMapRelY": 175,
+    "longitude": -0.090694851,
+    "latitude": 51.51143372,
+    "meta": "Cannon Street Station"
+  }, {
+    "name": "Canons Park Station",
+    "tflMapX": 1272,
+    "tflMapY": 392,
+    "tflMapRelX": -688,
+    "tflMapRelY": -839,
+    "longitude": -0.294653741,
+    "latitude": 51.60775952,
+    "meta": "Canons Park Station"
+  }, {
+    "name": "Chalfont & Latimer Station",
+    "tflMapX": 405,
+    "tflMapY": 148,
+    "tflMapRelX": -1555,
+    "tflMapRelY": -1083,
+    "longitude": -0.560534956,
+    "latitude": 51.66802547,
+    "meta": "Chalfont & Latimer Station"
+  }, {
+    "name": "Chalk Farm Station",
+    "tflMapX": 1988,
+    "tflMapY": 731,
+    "tflMapRelX": 28,
+    "tflMapRelY": -500,
+    "longitude": -0.153728009,
+    "latitude": 51.5440831,
+    "meta": "Chalk Farm Station"
+  }, {
+    "name": "Chancery Lane Station",
+    "tflMapX": 2164,
+    "tflMapY": 1231,
+    "tflMapRelX": 204,
+    "tflMapRelY": 0,
+    "longitude": -0.111677427,
+    "latitude": 51.51812323,
+    "meta": "Chancery Lane Station"
+  }, {
+    "name": "Charing Cross Station",
+    "tflMapX": 1960,
+    "tflMapY": 1445,
+    "tflMapRelX": 0,
+    "tflMapRelY": 214,
+    "longitude": -0.124754687,
+    "latitude": 51.50859321,
+    "meta": "Charing Cross Station"
+  }, {
+    "name": "Chesham Station",
+    "tflMapX": 259,
+    "tflMapY": 100,
+    "tflMapRelX": -1701,
+    "tflMapRelY": -1131,
+    "longitude": -0.611219246,
+    "latitude": 51.70503045,
+    "meta": "Chesham Station"
+  }, {
+    "name": "Chigwell Station",
+    "tflMapX": 3321,
+    "tflMapY": 312,
+    "tflMapRelX": 1361,
+    "tflMapRelY": -919,
+    "longitude": 0.074526611,
+    "latitude": 51.61787193,
+    "meta": "Chigwell Station"
+  }, {
+    "name": "Chiswick Park Station",
+    "tflMapX": 754,
+    "tflMapY": 1533,
+    "tflMapRelX": -1206,
+    "tflMapRelY": 302,
+    "longitude": -0.267746874,
+    "latitude": 51.49430059,
+    "meta": "Chiswick Park Station"
+  }, {
+    "name": "Chorleywood Station",
+    "tflMapX": 548,
+    "tflMapY": 178,
+    "tflMapRelX": -1412,
+    "tflMapRelY": -1053,
+    "longitude": -0.51836599,
+    "latitude": 51.65421786,
+    "meta": "Chorleywood Station"
+  }, {
+    "name": "Clapham Common Station",
+    "tflMapX": 1772,
+    "tflMapY": 2155,
+    "tflMapRelX": -188,
+    "tflMapRelY": 924,
+    "longitude": -0.138311459,
+    "latitude": 51.46172793,
+    "meta": "Clapham Common Station"
+  }, {
+    "name": "Clapham North Station",
+    "tflMapX": 1824,
+    "tflMapY": 2103,
+    "tflMapRelX": -136,
+    "tflMapRelY": 872,
+    "longitude": -0.129531054,
+    "latitude": 51.46484373,
+    "meta": "Clapham North Station"
+  }, {
+    "name": "Clapham South Station",
+    "tflMapX": 1735,
+    "tflMapY": 2191,
+    "tflMapRelX": -225,
+    "tflMapRelY": 960,
+    "longitude": -0.147982099,
+    "latitude": 51.45259983,
+    "meta": "Clapham South Station"
+  }, {
+    "name": "Cockfosters Station",
+    "tflMapX": 2577,
+    "tflMapY": 146,
+    "tflMapRelX": 617,
+    "tflMapRelY": -1085,
+    "longitude": -0.149614715,
+    "latitude": 51.65168753,
+    "meta": "Cockfosters Station"
+  }, {
+    "name": "Colindale Station",
+    "tflMapX": 1657,
+    "tflMapY": 400,
+    "tflMapRelX": -303,
+    "tflMapRelY": -831,
+    "longitude": -0.250142588,
+    "latitude": 51.59528652,
+    "meta": "Colindale Station"
+  }, {
+    "name": "Colliers Wood Station",
+    "tflMapX": 1588,
+    "tflMapY": 2340,
+    "tflMapRelX": -372,
+    "tflMapRelY": 1109,
+    "longitude": -0.177700937,
+    "latitude": 51.41807189,
+    "meta": "Colliers Wood Station"
+  }, {
+    "name": "Covent Garden Station",
+    "tflMapX": 2003,
+    "tflMapY": 1282,
+    "tflMapRelX": 43,
+    "tflMapRelY": 51,
+    "longitude": -0.124159261,
+    "latitude": 51.51290959,
+    "meta": "Covent Garden Station"
+  }, {
+    "name": "Crossharbour & London Arena Station",
+    "tflMapX": 2956,
+    "tflMapY": 1690,
+    "tflMapRelX": 996,
+    "tflMapRelY": 459,
+    "longitude": -0.014614326,
+    "latitude": 51.49569837,
+    "meta": "Crossharbour & London Arena Station"
+  }, {
+    "name": "Croxley Station",
+    "tflMapX": 612,
+    "tflMapY": 194,
+    "tflMapRelX": -1348,
+    "tflMapRelY": -1037,
+    "longitude": -0.441710993,
+    "latitude": 51.64704634,
+    "meta": "Croxley Station"
+  }, {
+    "name": "Custom House Station",
+    "tflMapX": 3491,
+    "tflMapY": 1389,
+    "tflMapRelX": 1531,
+    "tflMapRelY": 158,
+    "longitude": 0.027684411,
+    "latitude": 51.50954382,
+    "meta": "Custom House Station"
+  }, {
+    "name": "Cutty Sark Station",
+    "tflMapX": 2956,
+    "tflMapY": 1871,
+    "tflMapRelX": 996,
+    "tflMapRelY": 640,
+    "longitude": -0.010858773,
+    "latitude": 51.48169437,
+    "meta": "Cutty Sark Station"
+  }, {
+    "name": "Cyprus Station",
+    "tflMapX": 3650,
+    "tflMapY": 1548,
+    "tflMapRelX": 1690,
+    "tflMapRelY": 317,
+    "longitude": 0.06353852,
+    "latitude": 51.50879193,
+    "meta": "Cyprus Station"
+  }, {
+    "name": "Dagenham East Station",
+    "tflMapX": 3584,
+    "tflMapY": 790,
+    "tflMapRelX": 1624,
+    "tflMapRelY": -441,
+    "longitude": 0.16587487,
+    "latitude": 51.54411673,
+    "meta": "Dagenham East Station"
+  }, {
+    "name": "Dagenham Heathway Station",
+    "tflMapX": 3554,
+    "tflMapY": 820,
+    "tflMapRelX": 1594,
+    "tflMapRelY": -411,
+    "longitude": 0.147684195,
+    "latitude": 51.54162741,
+    "meta": "Dagenham Heathway Station"
+  }, {
+    "name": "Debden Station",
+    "tflMapX": 3206,
+    "tflMapY": 150,
+    "tflMapRelX": 1246,
+    "tflMapRelY": -1081,
+    "longitude": 0.08383781,
+    "latitude": 51.64543432,
+    "meta": "Debden Station"
+  }, {
+    "name": "Deptford Bridge Station",
+    "tflMapX": 2956,
+    "tflMapY": 1971,
+    "tflMapRelX": 996,
+    "tflMapRelY": 740,
+    "longitude": -0.021550621,
+    "latitude": 51.47428472,
+    "meta": "Deptford Bridge Station"
+  }, {
+    "name": "Devons Road Station",
+    "tflMapX": 2956,
+    "tflMapY": 1211,
+    "tflMapRelX": 996,
+    "tflMapRelY": -20,
+    "longitude": -0.017224616,
+    "latitude": 51.52217508,
+    "meta": "Devons Road Station"
+  }, {
+    "name": "Dollis Hill Station",
+    "tflMapX": 1371,
+    "tflMapY": 642,
+    "tflMapRelX": -589,
+    "tflMapRelY": -589,
+    "longitude": -0.238797559,
+    "latitude": 51.55190356,
+    "meta": "Dollis Hill Station"
+  }, {
+    "name": "Ealing Broadway Station",
+    "tflMapX": 619,
+    "tflMapY": 1236,
+    "tflMapRelX": -1341,
+    "tflMapRelY": 5,
+    "longitude": -0.301500096,
+    "latitude": 51.51491303,
+    "meta": "Ealing Broadway Station"
+  }, {
+    "name": "Ealing Common Station",
+    "tflMapX": 683,
+    "tflMapY": 1372,
+    "tflMapRelX": -1277,
+    "tflMapRelY": 141,
+    "longitude": -0.288260381,
+    "latitude": 51.51012474,
+    "meta": "Ealing Common Station"
+  }, {
+    "name": "Earl's Court Station",
+    "tflMapX": 1331,
+    "tflMapY": 1535,
+    "tflMapRelX": -629,
+    "tflMapRelY": 304,
+    "longitude": -0.193545854,
+    "latitude": 51.49180391,
+    "meta": "Earl's Court Station"
+  }, {
+    "name": "East Acton Station",
+    "tflMapX": 1001,
+    "tflMapY": 1232,
+    "tflMapRelX": -959,
+    "tflMapRelY": 1,
+    "longitude": -0.247513204,
+    "latitude": 51.5165822,
+    "meta": "East Acton Station"
+  }, {
+    "name": "East Finchley Station",
+    "tflMapX": 2161,
+    "tflMapY": 418,
+    "tflMapRelX": 201,
+    "tflMapRelY": -813,
+    "longitude": -0.164738306,
+    "latitude": 51.58727172,
+    "meta": "East Finchley Station"
+  }, {
+    "name": "East Ham Station",
+    "tflMapX": 3368,
+    "tflMapY": 1000,
+    "tflMapRelX": 1408,
+    "tflMapRelY": -231,
+    "longitude": 0.051475549,
+    "latitude": 51.53892604,
+    "meta": "East Ham Station"
+  }, {
+    "name": "East India Station",
+    "tflMapX": 3110,
+    "tflMapY": 1369,
+    "tflMapRelX": 1150,
+    "tflMapRelY": 138,
+    "longitude": -0.002748664,
+    "latitude": 51.50904125,
+    "meta": "East India Station"
+  }, {
+    "name": "East Putney Station",
+    "tflMapX": 1299,
+    "tflMapY": 1879,
+    "tflMapRelX": -661,
+    "tflMapRelY": 648,
+    "longitude": -0.211003174,
+    "latitude": 51.45880475,
+    "meta": "East Putney Station"
+  }, {
+    "name": "Eastcote Station",
+    "tflMapX": 633,
+    "tflMapY": 452,
+    "tflMapRelX": -1327,
+    "tflMapRelY": -779,
+    "longitude": -0.396844627,
+    "latitude": 51.57649304,
+    "meta": "Eastcote Station"
+  }, {
+    "name": "Edgware Road Bakerloo Station",
+    "tflMapX": 1440,
+    "tflMapY": 981,
+    "tflMapRelX": -520,
+    "tflMapRelY": -250,
+    "longitude": -0.170135073,
+    "latitude": 51.52018389,
+    "meta": "Edgware Road Bakerloo Station"
+  }, {
+    "name": "Edgware Road Circle Station",
+    "tflMapX": 1490,
+    "tflMapY": 1026,
+    "tflMapRelX": -470,
+    "tflMapRelY": -205,
+    "longitude": -0.167666131,
+    "latitude": 51.51992047,
+    "meta": "Edgware Road Circle Station"
+  }, {
+    "name": "Edgware Station",
+    "tflMapX": 1547,
+    "tflMapY": 290,
+    "tflMapRelX": -413,
+    "tflMapRelY": -941,
+    "longitude": -0.274976006,
+    "latitude": 51.61362308,
+    "meta": "Edgware Station"
+  }, {
+    "name": "Elephant & Castle Station",
+    "tflMapX": 2040,
+    "tflMapY": 1887,
+    "tflMapRelX": 80,
+    "tflMapRelY": 656,
+    "longitude": -0.100729604,
+    "latitude": 51.49577705,
+    "meta": "Elephant & Castle Station"
+  }, {
+    "name": "Elm Park Station",
+    "tflMapX": 3624,
+    "tflMapY": 750,
+    "tflMapRelX": 1664,
+    "tflMapRelY": -481,
+    "longitude": 0.199180459,
+    "latitude": 51.54980125,
+    "meta": "Elm Park Station"
+  }, {
+    "name": "Elverson Road Station",
+    "tflMapX": 2956,
+    "tflMapY": 2019,
+    "tflMapRelX": 996,
+    "tflMapRelY": 788,
+    "longitude": -0.017467307,
+    "latitude": 51.46881943,
+    "meta": "Elverson Road Station"
+  }, {
+    "name": "Embankment Station",
+    "tflMapX": 2069,
+    "tflMapY": 1529,
+    "tflMapRelX": 109,
+    "tflMapRelY": 298,
+    "longitude": -0.122360216,
+    "latitude": 51.5072418,
+    "meta": "Embankment Station"
+  }, {
+    "name": "Epping Station",
+    "tflMapX": 3207,
+    "tflMapY": 68,
+    "tflMapRelX": 1247,
+    "tflMapRelY": -1163,
+    "longitude": 0.113866916,
+    "latitude": 51.69362461,
+    "meta": "Epping Station"
+  }, {
+    "name": "Euston Square Station",
+    "tflMapX": 2030,
+    "tflMapY": 1019,
+    "tflMapRelX": 70,
+    "tflMapRelY": -212,
+    "longitude": -0.135836141,
+    "latitude": 51.52556101,
+    "meta": "Euston Square Station"
+  }, {
+    "name": "Euston Station",
+    "tflMapX": 2009,
+    "tflMapY": 966,
+    "tflMapRelX": 49,
+    "tflMapRelY": -265,
+    "longitude": -0.133289719,
+    "latitude": 51.52859626,
+    "meta": "Euston Station"
+  }, {
+    "name": "Fairlop Station",
+    "tflMapX": 3436,
+    "tflMapY": 413,
+    "tflMapRelX": 1476,
+    "tflMapRelY": -818,
+    "longitude": 0.090929226,
+    "latitude": 51.59568093,
+    "meta": "Fairlop Station"
+  }, {
+    "name": "Farringdon Station",
+    "tflMapX": 2244,
+    "tflMapY": 1070,
+    "tflMapRelX": 284,
+    "tflMapRelY": -161,
+    "longitude": -0.105065254,
+    "latitude": 51.52044475,
+    "meta": "Farringdon Station"
+  }, {
+    "name": "Finchley Central Station",
+    "tflMapX": 2161,
+    "tflMapY": 363,
+    "tflMapRelX": 201,
+    "tflMapRelY": -868,
+    "longitude": -0.192447107,
+    "latitude": 51.60097642,
+    "meta": "Finchley Central Station"
+  }, {
+    "name": "Finchley Road Station",
+    "tflMapX": 1533,
+    "tflMapY": 825,
+    "tflMapRelX": -427,
+    "tflMapRelY": -406,
+    "longitude": -0.180494176,
+    "latitude": 51.54706483,
+    "meta": "Finchley Road Station"
+  }, {
+    "name": "Finsbury Park Station",
+    "tflMapX": 2565,
+    "tflMapY": 586,
+    "tflMapRelX": 605,
+    "tflMapRelY": -645,
+    "longitude": -0.1065121,
+    "latitude": 51.56440165,
+    "meta": "Finsbury Park Station"
+  }, {
+    "name": "Fulham Broadway Station",
+    "tflMapX": 1299,
+    "tflMapY": 1720,
+    "tflMapRelX": -661,
+    "tflMapRelY": 489,
+    "longitude": -0.194956845,
+    "latitude": 51.48052978,
+    "meta": "Fulham Broadway Station"
+  }, {
+    "name": "Gallions Reach Station",
+    "tflMapX": 3691,
+    "tflMapY": 1588,
+    "tflMapRelX": 1731,
+    "tflMapRelY": 357,
+    "longitude": 0.072220033,
+    "latitude": 51.50953809,
+    "meta": "Gallions Reach Station"
+  }, {
+    "name": "Gants Hill Station",
+    "tflMapX": 3382,
+    "tflMapY": 572,
+    "tflMapRelX": 1422,
+    "tflMapRelY": -659,
+    "longitude": 0.066115534,
+    "latitude": 51.57648755,
+    "meta": "Gants Hill Station"
+  }, {
+    "name": "Gloucester Road Station",
+    "tflMapX": 1426,
+    "tflMapY": 1529,
+    "tflMapRelX": -534,
+    "tflMapRelY": 298,
+    "longitude": -0.182989526,
+    "latitude": 51.49423978,
+    "meta": "Gloucester Road Station"
+  }, {
+    "name": "Golders Green Station",
+    "tflMapX": 1790,
+    "tflMapY": 533,
+    "tflMapRelX": -170,
+    "tflMapRelY": -698,
+    "longitude": -0.193993261,
+    "latitude": 51.57222139,
+    "meta": "Golders Green Station"
+  }, {
+    "name": "Goldhawk Road Station",
+    "tflMapX": 1124,
+    "tflMapY": 1427,
+    "tflMapRelX": -836,
+    "tflMapRelY": 196,
+    "longitude": -0.226748329,
+    "latitude": 51.5019522,
+    "meta": "Goldhawk Road Station"
+  }, {
+    "name": "Goodge Street Station",
+    "tflMapX": 1960,
+    "tflMapY": 1182,
+    "tflMapRelX": 0,
+    "tflMapRelY": -49,
+    "longitude": -0.134662152,
+    "latitude": 51.520425,
+    "meta": "Goodge Street Station"
+  }, {
+    "name": "Grange Hill Station",
+    "tflMapX": 3372,
+    "tflMapY": 313,
+    "tflMapRelX": 1412,
+    "tflMapRelY": -918,
+    "longitude": 0.092146407,
+    "latitude": 51.61334986,
+    "meta": "Grange Hill Station"
+  }, {
+    "name": "Great Portland Street Station",
+    "tflMapX": 1824,
+    "tflMapY": 1016,
+    "tflMapRelX": -136,
+    "tflMapRelY": -215,
+    "longitude": -0.143956086,
+    "latitude": 51.52372031,
+    "meta": "Great Portland Street Station"
+  }, {
+    "name": "Green Park Station",
+    "tflMapX": 1700,
+    "tflMapY": 1352,
+    "tflMapRelX": -260,
+    "tflMapRelY": 121,
+    "longitude": -0.142927422,
+    "latitude": 51.50685011,
+    "meta": "Green Park Station"
+  }, {
+    "name": "Greenford Station",
+    "tflMapX": 499,
+    "tflMapY": 856,
+    "tflMapRelX": -1461,
+    "tflMapRelY": -375,
+    "longitude": -0.346444147,
+    "latitude": 51.54230203,
+    "meta": "Greenford Station"
+  }, {
+    "name": "Greenwich Station",
+    "tflMapX": 2956,
+    "tflMapY": 1924,
+    "tflMapRelX": 996,
+    "tflMapRelY": 693,
+    "longitude": -0.014198817,
+    "latitude": 51.47775782,
+    "meta": "Greenwich Station"
+  }, {
+    "name": "Gunnersbury Station",
+    "tflMapX": 807,
+    "tflMapY": 1677,
+    "tflMapRelX": -1153,
+    "tflMapRelY": 446,
+    "longitude": -0.275175035,
+    "latitude": 51.4917931,
+    "meta": "Gunnersbury Station"
+  }, {
+    "name": "Hainault Station",
+    "tflMapX": 3437,
+    "tflMapY": 364,
+    "tflMapRelX": 1477,
+    "tflMapRelY": -867,
+    "longitude": 0.093119014,
+    "latitude": 51.60372722,
+    "meta": "Hainault Station"
+  }, {
+    "name": "Hammersmith (D & P) Station",
+    "tflMapX": 1125,
+    "tflMapY": 1521,
+    "tflMapRelX": -835,
+    "tflMapRelY": 290,
+    "longitude": -0.222401731,
+    "latitude": 51.49256908,
+    "meta": "Hammersmith (D & P) Station"
+  }, {
+    "name": "Hammersmith Station",
+    "tflMapX": 1125,
+    "tflMapY": 1476,
+    "tflMapRelX": -835,
+    "tflMapRelY": 245,
+    "longitude": -0.224930071,
+    "latitude": 51.49349777,
+    "meta": "Hammersmith Station"
+  }, {
+    "name": "Hampstead Station",
+    "tflMapX": 1839,
+    "tflMapY": 583,
+    "tflMapRelX": -121,
+    "tflMapRelY": -648,
+    "longitude": -0.178219763,
+    "latitude": 51.55668848,
+    "meta": "Hampstead Station"
+  }, {
+    "name": "Hanger Lane Station",
+    "tflMapX": 659,
+    "tflMapY": 1016,
+    "tflMapRelX": -1301,
+    "tflMapRelY": -215,
+    "longitude": -0.293007523,
+    "latitude": 51.5300064,
+    "meta": "Hanger Lane Station"
+  }, {
+    "name": "Harlesden Station",
+    "tflMapX": 1127,
+    "tflMapY": 713,
+    "tflMapRelX": -833,
+    "tflMapRelY": -518,
+    "longitude": -0.257502755,
+    "latitude": 51.53619291,
+    "meta": "Harlesden Station"
+  }, {
+    "name": "Harrow & Wealdstone Station",
+    "tflMapX": 1127,
+    "tflMapY": 384,
+    "tflMapRelX": -833,
+    "tflMapRelY": -847,
+    "longitude": -0.335231166,
+    "latitude": 51.59220883,
+    "meta": "Harrow & Wealdstone Station"
+  }, {
+    "name": "Harrow on the Hill Station",
+    "tflMapX": 926,
+    "tflMapY": 517,
+    "tflMapRelX": -1034,
+    "tflMapRelY": -714,
+    "longitude": -0.337015904,
+    "latitude": 51.57932887,
+    "meta": "Harrow on the Hill Station"
+  }, {
+    "name": "Hatton Cross Station",
+    "tflMapX": 357,
+    "tflMapY": 1812,
+    "tflMapRelX": -1603,
+    "tflMapRelY": 581,
+    "longitude": -0.423409349,
+    "latitude": 51.46661417,
+    "meta": "Hatton Cross Station"
+  }, {
+    "name": "Heathrow Terminal 4 Station",
+    "tflMapX": 329,
+    "tflMapY": 1911,
+    "tflMapRelX": -1631,
+    "tflMapRelY": 680,
+    "longitude": -0.446058767,
+    "latitude": 51.4585531,
+    "meta": "Heathrow Terminal 4 Station"
+  }, {
+    "name": "Heathrow Terminals 1, 2, 3 Station",
+    "tflMapX": 295,
+    "tflMapY": 1872,
+    "tflMapRelX": -1665,
+    "tflMapRelY": 641,
+    "longitude": -0.452439131,
+    "latitude": 51.47121921,
+    "meta": "Heathrow Terminals 1, 2, 3 Station"
+  }, {
+    "name": "Hendon Central Station",
+    "tflMapX": 1698,
+    "tflMapY": 441,
+    "tflMapRelX": -262,
+    "tflMapRelY": -790,
+    "longitude": -0.226496208,
+    "latitude": 51.58329383,
+    "meta": "Hendon Central Station"
+  }, {
+    "name": "Heron Quays Station",
+    "tflMapX": 2956,
+    "tflMapY": 1593,
+    "tflMapRelX": 996,
+    "tflMapRelY": 362,
+    "longitude": -0.021744065,
+    "latitude": 51.50306792,
+    "meta": "Heron Quays Station"
+  }, {
+    "name": "High Barnet Station",
+    "tflMapX": 2159,
+    "tflMapY": 140,
+    "tflMapRelX": 199,
+    "tflMapRelY": -1091,
+    "longitude": -0.194751022,
+    "latitude": 51.65060117,
+    "meta": "High Barnet Station"
+  }, {
+    "name": "High Street Kensington Station",
+    "tflMapX": 1369,
+    "tflMapY": 1333,
+    "tflMapRelX": -591,
+    "tflMapRelY": 102,
+    "longitude": -0.192503136,
+    "latitude": 51.50067342,
+    "meta": "High Street Kensington Station"
+  }, {
+    "name": "Highbury & Islington Station",
+    "tflMapX": 2475,
+    "tflMapY": 750,
+    "tflMapRelX": 515,
+    "tflMapRelY": -481,
+    "longitude": -0.103964239,
+    "latitude": 51.54622949,
+    "meta": "Highbury & Islington Station"
+  }, {
+    "name": "Highgate Station",
+    "tflMapX": 2160,
+    "tflMapY": 471,
+    "tflMapRelX": 200,
+    "tflMapRelY": -760,
+    "longitude": -0.146638423,
+    "latitude": 51.57759783,
+    "meta": "Highgate Station"
+  }, {
+    "name": "Hillingdon Station",
+    "tflMapX": 313,
+    "tflMapY": 385,
+    "tflMapRelX": -1647,
+    "tflMapRelY": -846,
+    "longitude": -0.449926296,
+    "latitude": 51.55371684,
+    "meta": "Hillingdon Station"
+  }, {
+    "name": "Holborn Station",
+    "tflMapX": 2053,
+    "tflMapY": 1232,
+    "tflMapRelX": 93,
+    "tflMapRelY": 1,
+    "longitude": -0.120008849,
+    "latitude": 51.51743878,
+    "meta": "Holborn Station"
+  }, {
+    "name": "Holland Park Station",
+    "tflMapX": 1292,
+    "tflMapY": 1232,
+    "tflMapRelX": -668,
+    "tflMapRelY": 1,
+    "longitude": -0.205728673,
+    "latitude": 51.50733404,
+    "meta": "Holland Park Station"
+  }, {
+    "name": "Holloway Road Station",
+    "tflMapX": 2459,
+    "tflMapY": 673,
+    "tflMapRelX": 499,
+    "tflMapRelY": -558,
+    "longitude": -0.112925633,
+    "latitude": 51.55275054,
+    "meta": "Holloway Road Station"
+  }, {
+    "name": "Hornchurch Station",
+    "tflMapX": 3657,
+    "tflMapY": 718,
+    "tflMapRelX": 1697,
+    "tflMapRelY": -513,
+    "longitude": 0.219018987,
+    "latitude": 51.55400526,
+    "meta": "Hornchurch Station"
+  }, {
+    "name": "Hounslow Central Station",
+    "tflMapX": 434,
+    "tflMapY": 1735,
+    "tflMapRelX": -1526,
+    "tflMapRelY": 504,
+    "longitude": -0.36692242,
+    "latitude": 51.4710833,
+    "meta": "Hounslow Central Station"
+  }, {
+    "name": "Hounslow East Station",
+    "tflMapX": 477,
+    "tflMapY": 1692,
+    "tflMapRelX": -1483,
+    "tflMapRelY": 461,
+    "longitude": -0.356695318,
+    "latitude": 51.47317062,
+    "meta": "Hounslow East Station"
+  }, {
+    "name": "Hounslow West Station",
+    "tflMapX": 398,
+    "tflMapY": 1770,
+    "tflMapRelX": -1562,
+    "tflMapRelY": 539,
+    "longitude": -0.385731868,
+    "latitude": 51.4730348,
+    "meta": "Hounslow West Station"
+  }, {
+    "name": "Hyde Park Corner Station",
+    "tflMapX": 1639,
+    "tflMapY": 1397,
+    "tflMapRelX": -321,
+    "tflMapRelY": 166,
+    "longitude": -0.152748812,
+    "latitude": 51.50276041,
+    "meta": "Hyde Park Corner Station"
+  }, {
+    "name": "Ickenham Station",
+    "tflMapX": 397,
+    "tflMapY": 384,
+    "tflMapRelX": -1563,
+    "tflMapRelY": -847,
+    "longitude": -0.442026556,
+    "latitude": 51.56198474,
+    "meta": "Ickenham Station"
+  }, {
+    "name": "Island Gardens Station",
+    "tflMapX": 2956,
+    "tflMapY": 1788,
+    "tflMapRelX": 996,
+    "tflMapRelY": 557,
+    "longitude": -0.00948951,
+    "latitude": 51.48667164,
+    "meta": "Island Gardens Station"
+  }, {
+    "name": "Kennington Station",
+    "tflMapX": 1950,
+    "tflMapY": 1978,
+    "tflMapRelX": -10,
+    "tflMapRelY": 747,
+    "longitude": -0.105485153,
+    "latitude": 51.48811953,
+    "meta": "Kennington Station"
+  }, {
+    "name": "Kensal Green Station",
+    "tflMapX": 1127,
+    "tflMapY": 810,
+    "tflMapRelX": -833,
+    "tflMapRelY": -421,
+    "longitude": -0.224716965,
+    "latitude": 51.53045767,
+    "meta": "Kensal Green Station"
+  }, {
+    "name": "Kensington (Olympia) Station",
+    "tflMapX": 1285,
+    "tflMapY": 1401,
+    "tflMapRelX": -675,
+    "tflMapRelY": 170,
+    "longitude": -0.210382523,
+    "latitude": 51.49780917,
+    "meta": "Kensington (Olympia) Station"
+  }, {
+    "name": "Kentish Town Station",
+    "tflMapX": 2139,
+    "tflMapY": 661,
+    "tflMapRelX": 179,
+    "tflMapRelY": -570,
+    "longitude": -0.140464193,
+    "latitude": 51.55030376,
+    "meta": "Kentish Town Station"
+  }, {
+    "name": "Kenton Station",
+    "tflMapX": 1127,
+    "tflMapY": 483,
+    "tflMapRelX": -833,
+    "tflMapRelY": -748,
+    "longitude": -0.317164406,
+    "latitude": 51.58178846,
+    "meta": "Kenton Station"
+  }, {
+    "name": "Kew Gardens Station",
+    "tflMapX": 807,
+    "tflMapY": 1748,
+    "tflMapRelX": -1153,
+    "tflMapRelY": 517,
+    "longitude": -0.285252328,
+    "latitude": 51.47702993,
+    "meta": "Kew Gardens Station"
+  }, {
+    "name": "Kilburn Park Station",
+    "tflMapX": 1136,
+    "tflMapY": 904,
+    "tflMapRelX": -824,
+    "tflMapRelY": -327,
+    "longitude": -0.193965947,
+    "latitude": 51.53506908,
+    "meta": "Kilburn Park Station"
+  }, {
+    "name": "Kilburn Station",
+    "tflMapX": 1455,
+    "tflMapY": 727,
+    "tflMapRelX": -505,
+    "tflMapRelY": -504,
+    "longitude": -0.204633341,
+    "latitude": 51.5468795,
+    "meta": "Kilburn Station"
+  }, {
+    "name": "King's Cross St. Pancras Station",
+    "tflMapX": 2144,
+    "tflMapY": 988,
+    "tflMapRelX": 184,
+    "tflMapRelY": -243,
+    "longitude": -0.123857948,
+    "latitude": 51.53039724,
+    "meta": "King's Cross St. Pancras Station"
+  }, {
+    "name": "Kingsbury Station",
+    "tflMapX": 1272,
+    "tflMapY": 491,
+    "tflMapRelX": -688,
+    "tflMapRelY": -740,
+    "longitude": -0.278799057,
+    "latitude": 51.58475687,
+    "meta": "Kingsbury Station"
+  }, {
+    "name": "Knightsbridge Station",
+    "tflMapX": 1600,
+    "tflMapY": 1437,
+    "tflMapRelX": -360,
+    "tflMapRelY": 206,
+    "longitude": -0.160507091,
+    "latitude": 51.50155143,
+    "meta": "Knightsbridge Station"
+  }, {
+    "name": "Ladbroke Grove Station",
+    "tflMapX": 1173,
+    "tflMapY": 1096,
+    "tflMapRelX": -787,
+    "tflMapRelY": -135,
+    "longitude": -0.210861918,
+    "latitude": 51.51718845,
+    "meta": "Ladbroke Grove Station"
+  }, {
+    "name": "Lambeth North Station",
+    "tflMapX": 1989,
+    "tflMapY": 1794,
+    "tflMapRelX": 29,
+    "tflMapRelY": 563,
+    "longitude": -0.11176027,
+    "latitude": 51.49905815,
+    "meta": "Lambeth North Station"
+  }, {
+    "name": "Lancaster Gate Station",
+    "tflMapX": 1531,
+    "tflMapY": 1232,
+    "tflMapRelX": -429,
+    "tflMapRelY": 1,
+    "longitude": -0.175428659,
+    "latitude": 51.51182153,
+    "meta": "Lancaster Gate Station"
+  }, {
+    "name": "Latimer Road Station",
+    "tflMapX": 1140,
+    "tflMapY": 1130,
+    "tflMapRelX": -820,
+    "tflMapRelY": -101,
+    "longitude": -0.217779302,
+    "latitude": 51.51354359,
+    "meta": "Latimer Road Station"
+  }, {
+    "name": "Leicester Square Station",
+    "tflMapX": 1960,
+    "tflMapY": 1324,
+    "tflMapRelX": 0,
+    "tflMapRelY": 93,
+    "longitude": -0.128235532,
+    "latitude": 51.51122103,
+    "meta": "Leicester Square Station"
+  }, {
+    "name": "Lewisham Station",
+    "tflMapX": 2956,
+    "tflMapY": 2067,
+    "tflMapRelX": 996,
+    "tflMapRelY": 836,
+    "longitude": -0.014706587,
+    "latitude": 51.46607454,
+    "meta": "Lewisham Station"
+  }, {
+    "name": "Leyton Station",
+    "tflMapX": 3207,
+    "tflMapY": 739,
+    "tflMapRelX": 1247,
+    "tflMapRelY": -492,
+    "longitude": -0.00561988,
+    "latitude": 51.55643293,
+    "meta": "Leyton Station"
+  }, {
+    "name": "Leytonstone Station",
+    "tflMapX": 3207,
+    "tflMapY": 627,
+    "tflMapRelX": 1247,
+    "tflMapRelY": -604,
+    "longitude": 0.008215047,
+    "latitude": 51.56818526,
+    "meta": "Leytonstone Station"
+  }, {
+    "name": "Limehouse Station",
+    "tflMapX": 2827,
+    "tflMapY": 1369,
+    "tflMapRelX": 867,
+    "tflMapRelY": 138,
+    "longitude": -0.039712577,
+    "latitude": 51.51249852,
+    "meta": "Limehouse Station"
+  }, {
+    "name": "Liverpool Street Station",
+    "tflMapX": 2510,
+    "tflMapY": 1171,
+    "tflMapRelX": 550,
+    "tflMapRelY": -60,
+    "longitude": -0.082965709,
+    "latitude": 51.51735123,
+    "meta": "Liverpool Street Station"
+  }, {
+    "name": "London Bridge Station",
+    "tflMapX": 2353,
+    "tflMapY": 1547,
+    "tflMapRelX": 393,
+    "tflMapRelY": 316,
+    "longitude": -0.086922404,
+    "latitude": 51.50549935,
+    "meta": "London Bridge Station"
+  }, {
+    "name": "Loughton Station",
+    "tflMapX": 3207,
+    "tflMapY": 192,
+    "tflMapRelX": 1247,
+    "tflMapRelY": -1039,
+    "longitude": 0.055311997,
+    "latitude": 51.64151276,
+    "meta": "Loughton Station"
+  }, {
+    "name": "Maida Vale Station",
+    "tflMapX": 1169,
+    "tflMapY": 935,
+    "tflMapRelX": -791,
+    "tflMapRelY": -296,
+    "longitude": -0.185625902,
+    "latitude": 51.52976002,
+    "meta": "Maida Vale Station"
+  }, {
+    "name": "Manor House Station",
+    "tflMapX": 2578,
+    "tflMapY": 524,
+    "tflMapRelX": 618,
+    "tflMapRelY": -707,
+    "longitude": -0.095712467,
+    "latitude": 51.57075601,
+    "meta": "Manor House Station"
+  }, {
+    "name": "Mansion House Station",
+    "tflMapX": 2259,
+    "tflMapY": 1439,
+    "tflMapRelX": 299,
+    "tflMapRelY": 208,
+    "longitude": -0.094187135,
+    "latitude": 51.5120212,
+    "meta": "Mansion House Station"
+  }, {
+    "name": "Marble Arch Station",
+    "tflMapX": 1584,
+    "tflMapY": 1232,
+    "tflMapRelX": -376,
+    "tflMapRelY": 1,
+    "longitude": -0.158438047,
+    "latitude": 51.51354329,
+    "meta": "Marble Arch Station"
+  }, {
+    "name": "Marylebone Station",
+    "tflMapX": 1546,
+    "tflMapY": 980,
+    "tflMapRelX": -414,
+    "tflMapRelY": -251,
+    "longitude": -0.163104487,
+    "latitude": 51.52222334,
+    "meta": "Marylebone Station"
+  }, {
+    "name": "Mile End Station",
+    "tflMapX": 2897,
+    "tflMapY": 1106,
+    "tflMapRelX": 937,
+    "tflMapRelY": -125,
+    "longitude": -0.03340417,
+    "latitude": 51.52509187,
+    "meta": "Mile End Station"
+  }, {
+    "name": "Mill Hill East Station",
+    "tflMapX": 2092,
+    "tflMapY": 267,
+    "tflMapRelX": 132,
+    "tflMapRelY": -964,
+    "longitude": -0.20989442,
+    "latitude": 51.6082589,
+    "meta": "Mill Hill East Station"
+  }, {
+    "name": "Monument Station",
+    "tflMapX": 2395,
+    "tflMapY": 1376,
+    "tflMapRelX": 435,
+    "tflMapRelY": 145,
+    "longitude": -0.088942733,
+    "latitude": 51.51334782,
+    "meta": "Monument Station"
+  }, {
+    "name": "Moor Park Station",
+    "tflMapX": 631,
+    "tflMapY": 260,
+    "tflMapRelX": -1329,
+    "tflMapRelY": -971,
+    "longitude": -0.432666849,
+    "latitude": 51.62973109,
+    "meta": "Moor Park Station"
+  }, {
+    "name": "Moorgate Station",
+    "tflMapX": 2353,
+    "tflMapY": 1154,
+    "tflMapRelX": 393,
+    "tflMapRelY": -77,
+    "longitude": -0.089006315,
+    "latitude": 51.51836725,
+    "meta": "Moorgate Station"
+  }, {
+    "name": "Morden Station",
+    "tflMapX": 1501,
+    "tflMapY": 2425,
+    "tflMapRelX": -459,
+    "tflMapRelY": 1194,
+    "longitude": -0.194790701,
+    "latitude": 51.40233694,
+    "meta": "Morden Station"
+  }, {
+    "name": "Mornington Crescent Station",
+    "tflMapX": 2008,
+    "tflMapY": 866,
+    "tflMapRelX": 48,
+    "tflMapRelY": -365,
+    "longitude": -0.13884253,
+    "latitude": 51.53420661,
+    "meta": "Mornington Crescent Station"
+  }, {
+    "name": "Mudchute Station",
+    "tflMapX": 2957,
+    "tflMapY": 1741,
+    "tflMapRelX": 997,
+    "tflMapRelY": 510,
+    "longitude": -0.015091215,
+    "latitude": 51.49036418,
+    "meta": "Mudchute Station"
+  }, {
+    "name": "Neasden Station",
+    "tflMapX": 1328,
+    "tflMapY": 599,
+    "tflMapRelX": -632,
+    "tflMapRelY": -632,
+    "longitude": -0.249782873,
+    "latitude": 51.55396572,
+    "meta": "Neasden Station"
+  }, {
+    "name": "New Cross Gate Station",
+    "tflMapX": 2561,
+    "tflMapY": 1935,
+    "tflMapRelX": 601,
+    "tflMapRelY": 704,
+    "longitude": -0.040299579,
+    "latitude": 51.47533738,
+    "meta": "New Cross Gate Station"
+  }, {
+    "name": "New Cross Station",
+    "tflMapX": 2729,
+    "tflMapY": 1935,
+    "tflMapRelX": 769,
+    "tflMapRelY": 704,
+    "longitude": -0.032594571,
+    "latitude": 51.4766742,
+    "meta": "New Cross Station"
+  }, {
+    "name": "Newbury Park Station",
+    "tflMapX": 3436,
+    "tflMapY": 508,
+    "tflMapRelX": 1476,
+    "tflMapRelY": -723,
+    "longitude": 0.090337314,
+    "latitude": 51.57557249,
+    "meta": "Newbury Park Station"
+  }, {
+    "name": "North Acton Station",
+    "tflMapX": 953,
+    "tflMapY": 1232,
+    "tflMapRelX": -1007,
+    "tflMapRelY": 1,
+    "longitude": -0.259737386,
+    "latitude": 51.52336556,
+    "meta": "North Acton Station"
+  }, {
+    "name": "North Ealing Station",
+    "tflMapX": 688,
+    "tflMapY": 1172,
+    "tflMapRelX": -1272,
+    "tflMapRelY": -59,
+    "longitude": -0.28900498,
+    "latitude": 51.51755516,
+    "meta": "North Ealing Station"
+  }, {
+    "name": "North Greenwich Station",
+    "tflMapX": 3120,
+    "tflMapY": 1530,
+    "tflMapRelX": 1160,
+    "tflMapRelY": 299,
+    "longitude": 0.003607417,
+    "latitude": 51.50018182,
+    "meta": "North Greenwich Station"
+  }, {
+    "name": "North Harrow Station",
+    "tflMapX": 818,
+    "tflMapY": 447,
+    "tflMapRelX": -1142,
+    "tflMapRelY": -784,
+    "longitude": -0.362223573,
+    "latitude": 51.58479185,
+    "meta": "North Harrow Station"
+  }, {
+    "name": "North Wembley Station",
+    "tflMapX": 1127,
+    "tflMapY": 589,
+    "tflMapRelX": -833,
+    "tflMapRelY": -642,
+    "longitude": -0.304155735,
+    "latitude": 51.56249029,
+    "meta": "North Wembley Station"
+  }, {
+    "name": "Northfields Station",
+    "tflMapX": 604,
+    "tflMapY": 1565,
+    "tflMapRelX": -1356,
+    "tflMapRelY": 334,
+    "longitude": -0.314156833,
+    "latitude": 51.49927648,
+    "meta": "Northfields Station"
+  }, {
+    "name": "Northolt Station",
+    "tflMapX": 473,
+    "tflMapY": 712,
+    "tflMapRelX": -1487,
+    "tflMapRelY": -519,
+    "longitude": -0.368459834,
+    "latitude": 51.54815044,
+    "meta": "Northolt Station"
+  }, {
+    "name": "Northwick Park Station",
+    "tflMapX": 1065,
+    "tflMapY": 517,
+    "tflMapRelX": -895,
+    "tflMapRelY": -714,
+    "longitude": -0.318206357,
+    "latitude": 51.57859284,
+    "meta": "Northwick Park Station"
+  }, {
+    "name": "Northwood Hills Station",
+    "tflMapX": 720,
+    "tflMapY": 350,
+    "tflMapRelX": -1240,
+    "tflMapRelY": -881,
+    "longitude": -0.409298631,
+    "latitude": 51.60049458,
+    "meta": "Northwood Hills Station"
+  }, {
+    "name": "Northwood Station",
+    "tflMapX": 676,
+    "tflMapY": 306,
+    "tflMapRelX": -1284,
+    "tflMapRelY": -925,
+    "longitude": -0.423860794,
+    "latitude": 51.61115923,
+    "meta": "Northwood Station"
+  }, {
+    "name": "Notting Hill Gate Station",
+    "tflMapX": 1369,
+    "tflMapY": 1231,
+    "tflMapRelX": -591,
+    "tflMapRelY": 0,
+    "longitude": -0.196537685,
+    "latitude": 51.50906353,
+    "meta": "Notting Hill Gate Station"
+  }, {
+    "name": "Oakwood Station",
+    "tflMapX": 2577,
+    "tflMapY": 195,
+    "tflMapRelX": 617,
+    "tflMapRelY": -1036,
+    "longitude": -0.131841721,
+    "latitude": 51.64758365,
+    "meta": "Oakwood Station"
+  }, {
+    "name": "Old Street Station",
+    "tflMapX": 2353,
+    "tflMapY": 1046,
+    "tflMapRelX": 393,
+    "tflMapRelY": -185,
+    "longitude": -0.087549731,
+    "latitude": 51.52560132,
+    "meta": "Old Street Station"
+  }, {
+    "name": "Osterley Station",
+    "tflMapX": 519,
+    "tflMapY": 1650,
+    "tflMapRelX": -1441,
+    "tflMapRelY": 419,
+    "longitude": -0.351994405,
+    "latitude": 51.4809288,
+    "meta": "Osterley Station"
+  }, {
+    "name": "Oval Station",
+    "tflMapX": 1921,
+    "tflMapY": 2006,
+    "tflMapRelX": -39,
+    "tflMapRelY": 775,
+    "longitude": -0.112893409,
+    "latitude": 51.48210545,
+    "meta": "Oval Station"
+  }, {
+    "name": "Oxford Circus Station",
+    "tflMapX": 1784,
+    "tflMapY": 1231,
+    "tflMapRelX": -176,
+    "tflMapRelY": 0,
+    "longitude": -0.141768984,
+    "latitude": 51.5151238,
+    "meta": "Oxford Circus Station"
+  }, {
+    "name": "Paddington Station",
+    "tflMapX": 1341,
+    "tflMapY": 1014,
+    "tflMapRelX": -619,
+    "tflMapRelY": -217,
+    "longitude": -0.175390006,
+    "latitude": 51.51531042,
+    "meta": "Paddington Station"
+  }, {
+    "name": "Park Royal Station",
+    "tflMapX": 688,
+    "tflMapY": 1103,
+    "tflMapRelX": -1272,
+    "tflMapRelY": -128,
+    "longitude": -0.284228016,
+    "latitude": 51.52690138,
+    "meta": "Park Royal Station"
+  }, {
+    "name": "Parsons Green Station",
+    "tflMapX": 1299,
+    "tflMapY": 1766,
+    "tflMapRelX": -661,
+    "tflMapRelY": 535,
+    "longitude": -0.201234657,
+    "latitude": 51.47509533,
+    "meta": "Parsons Green Station"
+  }, {
+    "name": "Perivale Station",
+    "tflMapX": 577,
+    "tflMapY": 934,
+    "tflMapRelX": -1383,
+    "tflMapRelY": -297,
+    "longitude": -0.323852038,
+    "latitude": 51.53659409,
+    "meta": "Perivale Station"
+  }, {
+    "name": "Piccadilly Circus Station",
+    "tflMapX": 1865,
+    "tflMapY": 1351,
+    "tflMapRelX": -95,
+    "tflMapRelY": 120,
+    "longitude": -0.134006366,
+    "latitude": 51.510027,
+    "meta": "Piccadilly Circus Station"
+  }, {
+    "name": "Pimlico Station",
+    "tflMapX": 1700,
+    "tflMapY": 1716,
+    "tflMapRelX": -260,
+    "tflMapRelY": 485,
+    "longitude": -0.133748665,
+    "latitude": 51.48919376,
+    "meta": "Pimlico Station"
+  }, {
+    "name": "Pinner Station",
+    "tflMapX": 777,
+    "tflMapY": 407,
+    "tflMapRelX": -1183,
+    "tflMapRelY": -824,
+    "longitude": -0.380919804,
+    "latitude": 51.59285763,
+    "meta": "Pinner Station"
+  }, {
+    "name": "Plaistow Station",
+    "tflMapX": 3280,
+    "tflMapY": 1088,
+    "tflMapRelX": 1320,
+    "tflMapRelY": -143,
+    "longitude": 0.017804699,
+    "latitude": 51.53121839,
+    "meta": "Plaistow Station"
+  }, {
+    "name": "Poplar Station",
+    "tflMapX": 2957,
+    "tflMapY": 1369,
+    "tflMapRelX": 997,
+    "tflMapRelY": 138,
+    "longitude": -0.017228774,
+    "latitude": 51.50748844,
+    "meta": "Poplar Station"
+  }, {
+    "name": "Preston Road Station",
+    "tflMapX": 1188,
+    "tflMapY": 517,
+    "tflMapRelX": -772,
+    "tflMapRelY": -714,
+    "longitude": -0.2952563,
+    "latitude": 51.57203799,
+    "meta": "Preston Road Station"
+  }, {
+    "name": "Prince Regent Station",
+    "tflMapX": 3531,
+    "tflMapY": 1429,
+    "tflMapRelX": 1571,
+    "tflMapRelY": 198,
+    "longitude": 0.033295485,
+    "latitude": 51.50932067,
+    "meta": "Prince Regent Station"
+  }, {
+    "name": "Pudding Mill Lane Station",
+    "tflMapX": 3087,
+    "tflMapY": 977,
+    "tflMapRelX": 1127,
+    "tflMapRelY": -254,
+    "longitude": -0.013174228,
+    "latitude": 51.53440084,
+    "meta": "Pudding Mill Lane Station"
+  }, {
+    "name": "Putney Bridge Station",
+    "tflMapX": 1298,
+    "tflMapY": 1812,
+    "tflMapRelX": -662,
+    "tflMapRelY": 581,
+    "longitude": -0.208976678,
+    "latitude": 51.46790222,
+    "meta": "Putney Bridge Station"
+  }, {
+    "name": "Queen's Park Station",
+    "tflMapX": 1127,
+    "tflMapY": 849,
+    "tflMapRelX": -833,
+    "tflMapRelY": -382,
+    "longitude": -0.20470409,
+    "latitude": 51.5341009,
+    "meta": "Queen's Park Station"
+  }, {
+    "name": "Queensbury Station",
+    "tflMapX": 1272,
+    "tflMapY": 441,
+    "tflMapRelX": -688,
+    "tflMapRelY": -790,
+    "longitude": -0.285785682,
+    "latitude": 51.59434715,
+    "meta": "Queensbury Station"
+  }, {
+    "name": "Queensway Station",
+    "tflMapX": 1461,
+    "tflMapY": 1231,
+    "tflMapRelX": -499,
+    "tflMapRelY": 0,
+    "longitude": -0.187434461,
+    "latitude": 51.51038005,
+    "meta": "Queensway Station"
+  }, {
+    "name": "Ravenscourt Park Station",
+    "tflMapX": 1061,
+    "tflMapY": 1533,
+    "tflMapRelX": -899,
+    "tflMapRelY": 302,
+    "longitude": -0.236258354,
+    "latitude": 51.49413653,
+    "meta": "Ravenscourt Park Station"
+  }, {
+    "name": "Rayners Lane Station",
+    "tflMapX": 671,
+    "tflMapY": 489,
+    "tflMapRelX": -1289,
+    "tflMapRelY": -742,
+    "longitude": -0.371005564,
+    "latitude": 51.5749767,
+    "meta": "Rayners Lane Station"
+  }, {
+    "name": "Redbridge Station",
+    "tflMapX": 3325,
+    "tflMapY": 572,
+    "tflMapRelX": 1365,
+    "tflMapRelY": -659,
+    "longitude": 0.045423116,
+    "latitude": 51.57630179,
+    "meta": "Redbridge Station"
+  }, {
+    "name": "Regent's Park Station",
+    "tflMapX": 1734,
+    "tflMapY": 1121,
+    "tflMapRelX": -226,
+    "tflMapRelY": -110,
+    "longitude": -0.146862635,
+    "latitude": 51.5235055,
+    "meta": "Regent's Park Station"
+  }, {
+    "name": "Richmond Station",
+    "tflMapX": 808,
+    "tflMapY": 1805,
+    "tflMapRelX": -1152,
+    "tflMapRelY": 574,
+    "longitude": -0.301754218,
+    "latitude": 51.46315964,
+    "meta": "Richmond Station"
+  }, {
+    "name": "Rickmansworth Station",
+    "tflMapX": 596,
+    "tflMapY": 225,
+    "tflMapRelX": -1364,
+    "tflMapRelY": -1006,
+    "longitude": -0.473712107,
+    "latitude": 51.64027271,
+    "meta": "Rickmansworth Station"
+  }, {
+    "name": "Roding Valley Station",
+    "tflMapX": 3263,
+    "tflMapY": 313,
+    "tflMapRelX": 1303,
+    "tflMapRelY": -918,
+    "longitude": 0.043864415,
+    "latitude": 51.61711524,
+    "meta": "Roding Valley Station"
+  }, {
+    "name": "Rotherhithe Station",
+    "tflMapX": 2728,
+    "tflMapY": 1513,
+    "tflMapRelX": 768,
+    "tflMapRelY": 282,
+    "longitude": -0.052180998,
+    "latitude": 51.50100569,
+    "meta": "Rotherhithe Station"
+  }, {
+    "name": "Royal Albert Station",
+    "tflMapX": 3571,
+    "tflMapY": 1469,
+    "tflMapRelX": 1611,
+    "tflMapRelY": 238,
+    "longitude": 0.046216594,
+    "latitude": 51.50819634,
+    "meta": "Royal Albert Station"
+  }, {
+    "name": "Royal Oak Station",
+    "tflMapX": 1232,
+    "tflMapY": 1036,
+    "tflMapRelX": -728,
+    "tflMapRelY": -195,
+    "longitude": -0.188230043,
+    "latitude": 51.51901712,
+    "meta": "Royal Oak Station"
+  }, {
+    "name": "Royal Victoria Station",
+    "tflMapX": 3357,
+    "tflMapY": 1369,
+    "tflMapRelX": 1397,
+    "tflMapRelY": 138,
+    "longitude": 0.018078557,
+    "latitude": 51.50906211,
+    "meta": "Royal Victoria Station"
+  }, {
+    "name": "Ruislip Gardens Station",
+    "tflMapX": 473,
+    "tflMapY": 511,
+    "tflMapRelX": -1487,
+    "tflMapRelY": -720,
+    "longitude": -0.411039285,
+    "latitude": 51.5605885,
+    "meta": "Ruislip Gardens Station"
+  }, {
+    "name": "Ruislip Manor Station",
+    "tflMapX": 584,
+    "tflMapY": 402,
+    "tflMapRelX": -1376,
+    "tflMapRelY": -829,
+    "longitude": -0.412345792,
+    "latitude": 51.57318768,
+    "meta": "Ruislip Manor Station"
+  }, {
+    "name": "Ruislip Station",
+    "tflMapX": 525,
+    "tflMapY": 385,
+    "tflMapRelX": -1435,
+    "tflMapRelY": -846,
+    "longitude": -0.421455074,
+    "latitude": 51.57144911,
+    "meta": "Ruislip Station"
+  }, {
+    "name": "Russell Square Station",
+    "tflMapX": 2080,
+    "tflMapY": 1135,
+    "tflMapRelX": 120,
+    "tflMapRelY": -96,
+    "longitude": -0.124310056,
+    "latitude": 51.52291285,
+    "meta": "Russell Square Station"
+  }, {
+    "name": "Seven Sisters Station",
+    "tflMapX": 2705,
+    "tflMapY": 557,
+    "tflMapRelX": 745,
+    "tflMapRelY": -674,
+    "longitude": -0.072491881,
+    "latitude": 51.58335418,
+    "meta": "Seven Sisters Station"
+  }, {
+    "name": "Shadwell Station",
+    "tflMapX": 2737,
+    "tflMapY": 1357,
+    "tflMapRelX": 777,
+    "tflMapRelY": 126,
+    "longitude": -0.056904476,
+    "latitude": 51.51122898,
+    "meta": "Shadwell Station"
+  }, {
+    "name": "Shepherd's Bush Central Station",
+    "tflMapX": 1202,
+    "tflMapY": 1241,
+    "tflMapRelX": -758,
+    "tflMapRelY": 10,
+    "longitude": -0.226305459,
+    "latitude": 51.50556087,
+    "meta": "Shepherd's Bush Central Station"
+  }, {
+    "name": "Shepherd's Bush Hammersmith & City Station",
+    "tflMapX": 1124,
+    "tflMapY": 1368,
+    "tflMapRelX": -836,
+    "tflMapRelY": 137,
+    "longitude": -0.226305459,
+    "latitude": 51.50556087,
+    "meta": "Shepherd's Bush Hammersmith & City Station"
+  }, {
+    "name": "Sloane Square Station",
+    "tflMapX": 1588,
+    "tflMapY": 1529,
+    "tflMapRelX": -372,
+    "tflMapRelY": 298,
+    "longitude": -0.156486232,
+    "latitude": 51.49228782,
+    "meta": "Sloane Square Station"
+  }, {
+    "name": "Snaresbrook Station",
+    "tflMapX": 3206,
+    "tflMapY": 483,
+    "tflMapRelX": 1246,
+    "tflMapRelY": -748,
+    "longitude": 0.021490462,
+    "latitude": 51.58082702,
+    "meta": "Snaresbrook Station"
+  }, {
+    "name": "South Ealing Station",
+    "tflMapX": 647,
+    "tflMapY": 1521,
+    "tflMapRelX": -1313,
+    "tflMapRelY": 290,
+    "longitude": -0.307018839,
+    "latitude": 51.50136794,
+    "meta": "South Ealing Station"
+  }, {
+    "name": "South Harrow Station",
+    "tflMapX": 688,
+    "tflMapY": 585,
+    "tflMapRelX": -1272,
+    "tflMapRelY": -646,
+    "longitude": -0.352211571,
+    "latitude": 51.56467757,
+    "meta": "South Harrow Station"
+  }, {
+    "name": "South Kensington Station",
+    "tflMapX": 1488,
+    "tflMapY": 1521,
+    "tflMapRelX": -472,
+    "tflMapRelY": 290,
+    "longitude": -0.173922311,
+    "latitude": 51.49399987,
+    "meta": "South Kensington Station"
+  }, {
+    "name": "South Kenton Station",
+    "tflMapX": 1127,
+    "tflMapY": 548,
+    "tflMapRelX": -833,
+    "tflMapRelY": -683,
+    "longitude": -0.308588675,
+    "latitude": 51.57017169,
+    "meta": "South Kenton Station"
+  }, {
+    "name": "South Quay Station",
+    "tflMapX": 2957,
+    "tflMapY": 1642,
+    "tflMapRelX": 997,
+    "tflMapRelY": 411,
+    "longitude": -0.019101694,
+    "latitude": 51.50053201,
+    "meta": "South Quay Station"
+  }, {
+    "name": "South Ruislip Station",
+    "tflMapX": 473,
+    "tflMapY": 607,
+    "tflMapRelX": -1487,
+    "tflMapRelY": -624,
+    "longitude": -0.398658757,
+    "latitude": 51.55651696,
+    "meta": "South Ruislip Station"
+  }, {
+    "name": "South Wimbledon Station",
+    "tflMapX": 1547,
+    "tflMapY": 2379,
+    "tflMapRelX": -413,
+    "tflMapRelY": 1148,
+    "longitude": -0.191979094,
+    "latitude": 51.41528037,
+    "meta": "South Wimbledon Station"
+  }, {
+    "name": "South Woodford Station",
+    "tflMapX": 3206,
+    "tflMapY": 434,
+    "tflMapRelX": 1246,
+    "tflMapRelY": -797,
+    "longitude": 0.027317134,
+    "latitude": 51.59172565,
+    "meta": "South Woodford Station"
+  }, {
+    "name": "Southfields Station",
+    "tflMapX": 1299,
+    "tflMapY": 1924,
+    "tflMapRelX": -661,
+    "tflMapRelY": 693,
+    "longitude": -0.206537544,
+    "latitude": 51.44493133,
+    "meta": "Southfields Station"
+  }, {
+    "name": "Southgate Station",
+    "tflMapX": 2577,
+    "tflMapY": 245,
+    "tflMapRelX": 617,
+    "tflMapRelY": -986,
+    "longitude": -0.127758393,
+    "latitude": 51.63231971,
+    "meta": "Southgate Station"
+  }, {
+    "name": "Southwark Station",
+    "tflMapX": 2079,
+    "tflMapY": 1681,
+    "tflMapRelX": 119,
+    "tflMapRelY": 450,
+    "longitude": -0.105091836,
+    "latitude": 51.50384301,
+    "meta": "Southwark Station"
+  }, {
+    "name": "St. James's Park Station",
+    "tflMapX": 1761,
+    "tflMapY": 1530,
+    "tflMapRelX": -199,
+    "tflMapRelY": 299,
+    "longitude": -0.134183744,
+    "latitude": 51.49934546,
+    "meta": "St. James's Park Station"
+  }, {
+    "name": "St. John's Wood Station",
+    "tflMapX": 1613,
+    "tflMapY": 884,
+    "tflMapRelX": -347,
+    "tflMapRelY": -347,
+    "longitude": -0.174172356,
+    "latitude": 51.53456452,
+    "meta": "St. John's Wood Station"
+  }, {
+    "name": "St. Paul's Station",
+    "tflMapX": 2213,
+    "tflMapY": 1258,
+    "tflMapRelX": 253,
+    "tflMapRelY": 27,
+    "longitude": -0.097573654,
+    "latitude": 51.5148013,
+    "meta": "St. Paul's Station"
+  }, {
+    "name": "Stamford Brook Station",
+    "tflMapX": 956,
+    "tflMapY": 1534,
+    "tflMapRelX": -1004,
+    "tflMapRelY": 303,
+    "longitude": -0.245453795,
+    "latitude": 51.49479623,
+    "meta": "Stamford Brook Station"
+  }, {
+    "name": "Stanmore Station",
+    "tflMapX": 1272,
+    "tflMapY": 344,
+    "tflMapRelX": -688,
+    "tflMapRelY": -887,
+    "longitude": -0.303108171,
+    "latitude": 51.61961834,
+    "meta": "Stanmore Station"
+  }, {
+    "name": "Stepney Green Station",
+    "tflMapX": 2774,
+    "tflMapY": 1196,
+    "tflMapRelX": 814,
+    "tflMapRelY": -35,
+    "longitude": -0.046458666,
+    "latitude": 51.52191063,
+    "meta": "Stepney Green Station"
+  }, {
+    "name": "Stockwell Station",
+    "tflMapX": 1885,
+    "tflMapY": 2041,
+    "tflMapRelX": -75,
+    "tflMapRelY": 810,
+    "longitude": -0.122909312,
+    "latitude": 51.47216654,
+    "meta": "Stockwell Station"
+  }, {
+    "name": "Stonebridge Park Station",
+    "tflMapX": 1127,
+    "tflMapY": 673,
+    "tflMapRelX": -833,
+    "tflMapRelY": -558,
+    "longitude": -0.275409248,
+    "latitude": 51.54392229,
+    "meta": "Stonebridge Park Station"
+  }, {
+    "name": "Stratford Station",
+    "tflMapX": 3171,
+    "tflMapY": 851,
+    "tflMapRelX": 1211,
+    "tflMapRelY": -380,
+    "longitude": -0.00319533,
+    "latitude": 51.54130927,
+    "meta": "Stratford Station"
+  }, {
+    "name": "Sudbury Hill Station",
+    "tflMapX": 688,
+    "tflMapY": 666,
+    "tflMapRelX": -1272,
+    "tflMapRelY": -565,
+    "longitude": -0.336215632,
+    "latitude": 51.55699619,
+    "meta": "Sudbury Hill Station"
+  }, {
+    "name": "Sudbury Town Station",
+    "tflMapX": 688,
+    "tflMapY": 747,
+    "tflMapRelX": -1272,
+    "tflMapRelY": -484,
+    "longitude": -0.315482697,
+    "latitude": 51.55078246,
+    "meta": "Sudbury Town Station"
+  }, {
+    "name": "Surrey Quays Station",
+    "tflMapX": 2728,
+    "tflMapY": 1651,
+    "tflMapRelX": 768,
+    "tflMapRelY": 420,
+    "longitude": -0.047514931,
+    "latitude": 51.49319346,
+    "meta": "Surrey Quays Station"
+  }, {
+    "name": "Swiss Cottage Station",
+    "tflMapX": 1577,
+    "tflMapY": 849,
+    "tflMapRelX": -383,
+    "tflMapRelY": -382,
+    "longitude": -0.174759253,
+    "latitude": 51.54331532,
+    "meta": "Swiss Cottage Station"
+  }, {
+    "name": "Temple Station",
+    "tflMapX": 2183,
+    "tflMapY": 1515,
+    "tflMapRelX": 223,
+    "tflMapRelY": 284,
+    "longitude": -0.11370309,
+    "latitude": 51.51096998,
+    "meta": "Temple Station"
+  }, {
+    "name": "Theydon Bois Station",
+    "tflMapX": 3206,
+    "tflMapY": 109,
+    "tflMapRelX": 1246,
+    "tflMapRelY": -1122,
+    "longitude": 0.103125377,
+    "latitude": 51.67171132,
+    "meta": "Theydon Bois Station"
+  }, {
+    "name": "Tooting Bec Station",
+    "tflMapX": 1666,
+    "tflMapY": 2261,
+    "tflMapRelX": -294,
+    "tflMapRelY": 1030,
+    "longitude": -0.15970054,
+    "latitude": 51.43575963,
+    "meta": "Tooting Bec Station"
+  }, {
+    "name": "Tooting Broadway Station",
+    "tflMapX": 1627,
+    "tflMapY": 2301,
+    "tflMapRelX": -333,
+    "tflMapRelY": 1070,
+    "longitude": -0.167976763,
+    "latitude": 51.42743539,
+    "meta": "Tooting Broadway Station"
+  }, {
+    "name": "Tottenham Court Road Station",
+    "tflMapX": 1960,
+    "tflMapY": 1231,
+    "tflMapRelX": 0,
+    "tflMapRelY": 0,
+    "longitude": -0.130870518,
+    "latitude": 51.51620955,
+    "meta": "Tottenham Court Road Station"
+  }, {
+    "name": "Tottenham Hale Station",
+    "tflMapX": 2788,
+    "tflMapY": 558,
+    "tflMapRelX": 828,
+    "tflMapRelY": -673,
+    "longitude": -0.060281116,
+    "latitude": 51.5880453,
+    "meta": "Tottenham Hale Station"
+  }, {
+    "name": "Totteridge & Whetstone Station",
+    "tflMapX": 2160,
+    "tflMapY": 190,
+    "tflMapRelX": 200,
+    "tflMapRelY": -1041,
+    "longitude": -0.179261213,
+    "latitude": 51.6302077,
+    "meta": "Totteridge & Whetstone Station"
+  }, {
+    "name": "Tower Gateway Station",
+    "tflMapX": 2588,
+    "tflMapY": 1415,
+    "tflMapRelX": 628,
+    "tflMapRelY": 184,
+    "longitude": -0.074530961,
+    "latitude": 51.51056664,
+    "meta": "Tower Gateway Station"
+  }, {
+    "name": "Tower Hill Station",
+    "tflMapX": 2548,
+    "tflMapY": 1376,
+    "tflMapRelX": 588,
+    "tflMapRelY": 145,
+    "longitude": -0.076353695,
+    "latitude": 51.51006595,
+    "meta": "Tower Hill Station"
+  }, {
+    "name": "Tufnell Park Station",
+    "tflMapX": 2160,
+    "tflMapY": 613,
+    "tflMapRelX": 200,
+    "tflMapRelY": -618,
+    "longitude": -0.137924881,
+    "latitude": 51.55666682,
+    "meta": "Tufnell Park Station"
+  }, {
+    "name": "Turnham Green Station",
+    "tflMapX": 866,
+    "tflMapY": 1534,
+    "tflMapRelX": -1094,
+    "tflMapRelY": 303,
+    "longitude": -0.254532983,
+    "latitude": 51.49511173,
+    "meta": "Turnham Green Station"
+  }, {
+    "name": "Turnpike Lane Station",
+    "tflMapX": 2578,
+    "tflMapY": 441,
+    "tflMapRelX": 618,
+    "tflMapRelY": -790,
+    "longitude": -0.102792275,
+    "latitude": 51.59029677,
+    "meta": "Turnpike Lane Station"
+  }, {
+    "name": "Upminster Bridge Station",
+    "tflMapX": 3698,
+    "tflMapY": 675,
+    "tflMapRelX": 1738,
+    "tflMapRelY": -556,
+    "longitude": 0.23577122,
+    "latitude": 51.55875051,
+    "meta": "Upminster Bridge Station"
+  }, {
+    "name": "Upminster Station",
+    "tflMapX": 3742,
+    "tflMapY": 632,
+    "tflMapRelX": 1782,
+    "tflMapRelY": -599,
+    "longitude": 0.251087116,
+    "latitude": 51.55888908,
+    "meta": "Upminster Station"
+  }, {
+    "name": "Upney Station",
+    "tflMapX": 3462,
+    "tflMapY": 913,
+    "tflMapRelX": 1502,
+    "tflMapRelY": -318,
+    "longitude": 0.101565626,
+    "latitude": 51.53833531,
+    "meta": "Upney Station"
+  }, {
+    "name": "Upton Park Station",
+    "tflMapX": 3319,
+    "tflMapY": 1049,
+    "tflMapRelX": 1359,
+    "tflMapRelY": -182,
+    "longitude": 0.03527318,
+    "latitude": 51.5352333,
+    "meta": "Upton Park Station"
+  }, {
+    "name": "Uxbridge Station",
+    "tflMapX": 183,
+    "tflMapY": 384,
+    "tflMapRelX": -1777,
+    "tflMapRelY": -847,
+    "longitude": -0.478139472,
+    "latitude": 51.54649637,
+    "meta": "Uxbridge Station"
+  }, {
+    "name": "Vauxhall Station",
+    "tflMapX": 1728,
+    "tflMapY": 1885,
+    "tflMapRelX": -232,
+    "tflMapRelY": 654,
+    "longitude": -0.123748951,
+    "latitude": 51.48573338,
+    "meta": "Vauxhall Station"
+  }, {
+    "name": "Victoria Station",
+    "tflMapX": 1700,
+    "tflMapY": 1529,
+    "tflMapRelX": -260,
+    "tflMapRelY": 298,
+    "longitude": -0.143844854,
+    "latitude": 51.49634217,
+    "meta": "Victoria Station"
+  }, {
+    "name": "Walthamstow Central Station",
+    "tflMapX": 2996,
+    "tflMapY": 556,
+    "tflMapRelX": 1036,
+    "tflMapRelY": -675,
+    "longitude": -0.019918639,
+    "latitude": 51.58295471,
+    "meta": "Walthamstow Central Station"
+  }, {
+    "name": "Wanstead Station",
+    "tflMapX": 3267,
+    "tflMapY": 572,
+    "tflMapRelX": 1307,
+    "tflMapRelY": -659,
+    "longitude": 0.028745919,
+    "latitude": 51.57552134,
+    "meta": "Wanstead Station"
+  }, {
+    "name": "Wapping Station",
+    "tflMapX": 2728,
+    "tflMapY": 1443,
+    "tflMapRelX": 768,
+    "tflMapRelY": 212,
+    "longitude": -0.055846251,
+    "latitude": 51.50426828,
+    "meta": "Wapping Station"
+  }, {
+    "name": "Warren Street Station",
+    "tflMapX": 1960,
+    "tflMapY": 1056,
+    "tflMapRelX": 0,
+    "tflMapRelY": -175,
+    "longitude": -0.138272313,
+    "latitude": 51.52451152,
+    "meta": "Warren Street Station"
+  }, {
+    "name": "Warwick Avenue Station",
+    "tflMapX": 1199,
+    "tflMapY": 966,
+    "tflMapRelX": -761,
+    "tflMapRelY": -265,
+    "longitude": -0.183678271,
+    "latitude": 51.52327252,
+    "meta": "Warwick Avenue Station"
+  }, {
+    "name": "Waterloo Station",
+    "tflMapX": 1960,
+    "tflMapY": 1630,
+    "tflMapRelX": 0,
+    "tflMapRelY": 399,
+    "longitude": -0.114069436,
+    "latitude": 51.50350221,
+    "meta": "Waterloo Station"
+  }, {
+    "name": "Watford Station",
+    "tflMapX": 611,
+    "tflMapY": 146,
+    "tflMapRelX": -1349,
+    "tflMapRelY": -1085,
+    "longitude": -0.417280632,
+    "latitude": 51.65742097,
+    "meta": "Watford Station"
+  }, {
+    "name": "Wembley Central Station",
+    "tflMapX": 1127,
+    "tflMapY": 632,
+    "tflMapRelX": -833,
+    "tflMapRelY": -599,
+    "longitude": -0.296859445,
+    "latitude": 51.55232997,
+    "meta": "Wembley Central Station"
+  }, {
+    "name": "Wembley Park Station",
+    "tflMapX": 1282,
+    "tflMapY": 575,
+    "tflMapRelX": -678,
+    "tflMapRelY": -656,
+    "longitude": -0.279251009,
+    "latitude": 51.56326048,
+    "meta": "Wembley Park Station"
+  }, {
+    "name": "West Acton Station",
+    "tflMapX": 801,
+    "tflMapY": 1231,
+    "tflMapRelX": -1159,
+    "tflMapRelY": 0,
+    "longitude": -0.28099329,
+    "latitude": 51.51786059,
+    "meta": "West Acton Station"
+  }, {
+    "name": "West Brompton Station",
+    "tflMapX": 1288,
+    "tflMapY": 1625,
+    "tflMapRelX": -672,
+    "tflMapRelY": 394,
+    "longitude": -0.195540834,
+    "latitude": 51.48725695,
+    "meta": "West Brompton Station"
+  }, {
+    "name": "West Finchley Station",
+    "tflMapX": 2160,
+    "tflMapY": 285,
+    "tflMapRelX": 200,
+    "tflMapRelY": -946,
+    "longitude": -0.18846887,
+    "latitude": 51.60948571,
+    "meta": "West Finchley Station"
+  }, {
+    "name": "West Ham Station",
+    "tflMapX": 3189,
+    "tflMapY": 1141,
+    "tflMapRelX": 1229,
+    "tflMapRelY": -90,
+    "longitude": 0.005039507,
+    "latitude": 51.52818177,
+    "meta": "West Ham Station"
+  }, {
+    "name": "West Hampstead Station",
+    "tflMapX": 1499,
+    "tflMapY": 770,
+    "tflMapRelX": -461,
+    "tflMapRelY": -461,
+    "longitude": -0.19074985,
+    "latitude": 51.54670198,
+    "meta": "West Hampstead Station"
+  }, {
+    "name": "West Harrow Station",
+    "tflMapX": 815,
+    "tflMapY": 517,
+    "tflMapRelX": -1145,
+    "tflMapRelY": -714,
+    "longitude": -0.352920631,
+    "latitude": 51.57977819,
+    "meta": "West Harrow Station"
+  }, {
+    "name": "West India Quay Station",
+    "tflMapX": 2957,
+    "tflMapY": 1448,
+    "tflMapRelX": 997,
+    "tflMapRelY": 217,
+    "longitude": -0.020148081,
+    "latitude": 51.50663844,
+    "meta": "West India Quay Station"
+  }, {
+    "name": "West Kensington Station",
+    "tflMapX": 1259,
+    "tflMapY": 1534,
+    "tflMapRelX": -701,
+    "tflMapRelY": 303,
+    "longitude": -0.206477115,
+    "latitude": 51.49049169,
+    "meta": "West Kensington Station"
+  }, {
+    "name": "West Ruislip Station",
+    "tflMapX": 473,
+    "tflMapY": 312,
+    "tflMapRelX": -1487,
+    "tflMapRelY": -919,
+    "longitude": -0.437886437,
+    "latitude": 51.56952886,
+    "meta": "West Ruislip Station"
+  }, {
+    "name": "Westbourne Park Station",
+    "tflMapX": 1198,
+    "tflMapY": 1072,
+    "tflMapRelX": -762,
+    "tflMapRelY": -159,
+    "longitude": -0.200883771,
+    "latitude": 51.52092085,
+    "meta": "Westbourne Park Station"
+  }, {
+    "name": "Westferry Station",
+    "tflMapX": 2899,
+    "tflMapY": 1369,
+    "tflMapRelX": 939,
+    "tflMapRelY": 138,
+    "longitude": -0.025791956,
+    "latitude": 51.50943178,
+    "meta": "Westferry Station"
+  }, {
+    "name": "Westminster Station",
+    "tflMapX": 1852,
+    "tflMapY": 1515,
+    "tflMapRelX": -108,
+    "tflMapRelY": 284,
+    "longitude": -0.124818265,
+    "latitude": 51.50108458,
+    "meta": "Westminster Station"
+  }, {
+    "name": "White City Station",
+    "tflMapX": 1081,
+    "tflMapY": 1231,
+    "tflMapRelX": -879,
+    "tflMapRelY": 0,
+    "longitude": -0.224254319,
+    "latitude": 51.51197811,
+    "meta": "White City Station"
+  }, {
+    "name": "Whitechapel Station",
+    "tflMapX": 2728,
+    "tflMapY": 1242,
+    "tflMapRelX": 768,
+    "tflMapRelY": 11,
+    "longitude": -0.059984983,
+    "latitude": 51.51945525,
+    "meta": "Whitechapel Station"
+  }, {
+    "name": "Willesden Green Station",
+    "tflMapX": 1413,
+    "tflMapY": 684,
+    "tflMapRelX": -547,
+    "tflMapRelY": -547,
+    "longitude": -0.222410152,
+    "latitude": 51.54930889,
+    "meta": "Willesden Green Station"
+  }, {
+    "name": "Willesden Junction Station",
+    "tflMapX": 1127,
+    "tflMapY": 771,
+    "tflMapRelX": -833,
+    "tflMapRelY": -460,
+    "longitude": -0.244288895,
+    "latitude": 51.5321915,
+    "meta": "Willesden Junction Station"
+  }, {
+    "name": "Wimbledon Park Station",
+    "tflMapX": 1299,
+    "tflMapY": 1971,
+    "tflMapRelX": -661,
+    "tflMapRelY": 740,
+    "longitude": -0.199595272,
+    "latitude": 51.43446419,
+    "meta": "Wimbledon Park Station"
+  }, {
+    "name": "Wimbledon Station",
+    "tflMapX": 1299,
+    "tflMapY": 2016,
+    "tflMapRelX": -661,
+    "tflMapRelY": 785,
+    "longitude": -0.206381587,
+    "latitude": 51.42138372,
+    "meta": "Wimbledon Station"
+  }, {
+    "name": "Wood Green Station",
+    "tflMapX": 2577,
+    "tflMapY": 392,
+    "tflMapRelX": 617,
+    "tflMapRelY": -839,
+    "longitude": -0.109626381,
+    "latitude": 51.59747603,
+    "meta": "Wood Green Station"
+  }, {
+    "name": "Woodford Station",
+    "tflMapX": 3207,
+    "tflMapY": 385,
+    "tflMapRelX": 1247,
+    "tflMapRelY": -846,
+    "longitude": 0.034037144,
+    "latitude": 51.60703337,
+    "meta": "Woodford Station"
+  }, {
+    "name": "Woodside Park Station",
+    "tflMapX": 2160,
+    "tflMapY": 238,
+    "tflMapRelX": 200,
+    "tflMapRelY": -993,
+    "longitude": -0.185421028,
+    "latitude": 51.61781141,
+    "meta": "Woodside Park Station"
+  }]
+}

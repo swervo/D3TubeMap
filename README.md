@@ -1,4 +1,4 @@
 D3TubeMap
 =========
 
-Tube station footfall built using D3
+Tube station foot fall map built using D3

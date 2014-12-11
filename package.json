@@ -1,0 +1,28 @@
+{
+    "name": "d3Trial",
+    "version": "0.1.0",
+    "description": "d3Trial",
+    "main": "app.js",
+    "scripts": {
+        "watch": "watchify public/main.js -o public/bundle.js -v",
+        "build": "browserify public/main.js -o public/bundle.js",
+        "start": "nodemon app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/swervo/D3TubeMap.git"
+    },
+    "author": "Dominic Butler",
+    "dependencies": {
+        "browserify-middleware": "^3.0.1",
+        "commander": "^2.1.0",
+        "debug": "^0.7.4",
+        "express": "~4.9.8",
+        "once": "^1.3.0"
+    },
+    "devDependencies": {
+        "browserify": "^5.9.1",
+        "minifyify": "^4.0.3",
+        "watchify": "^1.0.1"
+    }
+}

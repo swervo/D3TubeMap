@@ -1,0 +1,23 @@
+{
+    "browser": true,
+    "node": true,
+    "camelcase": true,
+    "eqeqeq": true,
+    "esnext": false,
+    "globals": {
+        "describe": false,
+        "before": false,
+        "after": false,
+        "it": false,
+        "$": false,
+        "d3": false
+    },
+    "globalstrict": true,
+    "quotmark": true,
+    "trailing": true,
+    "undef": true,
+    "unused": true,
+    "forin": true,
+    "indent": 4,
+    "newcap": true
+}

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Tube foot fall demo</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="styles/tubeHeatMap.css">
+    <link rel="stylesheet" href="styles/storeHeatMap.css">
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="//maps.google.com/maps/api/js?sensor=true&libraries=visualization,places"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/gmaps.js/0.4.12/gmaps.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.4.11/d3.min.js"></script>
+    <script src="bundle.js"></script>
+  </head>
+
+  <body>
+
+    <!-- Navigation -->
+    <header class="navbar navbar-fixed-top navbar-inverse" role="navigation">
+      <a class="navbar-brand text-primary">Footfall</a>
+      <div class="container">
+        <div class="row">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            </button>
+          </div>
+          <div id="navbar-collapse" class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+              <li><a href="#storeMap" role="tab" data-toggle="tab">Store map</a></li>
+              <li><a href="#tubeMap"role="tab" data-toggle="tab">Tube map</a></li>
+              <li><a href="#about" role="tab" data-toggle="tab">About</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <div class="tab-content">
+      <div class="tab-pane active" id="home"></div>
+      <div id="tubeMap" class="tab-pane">
+        <div id="tubeMapContainer" class="tubeMapContainer">
+          <svg id="tubeHeatMap" class="tubeHeatMap" width="100%" height="100%" viewbox="0 0 3898 2520">
+            <image xlink:href="assets/standard-tube-map.jpg" x="0" y="0" height="100%" width="100%"/>
+          </svg>
+          <button type="button" class="btn btn-primary tubeHeatMap-Refresh js-refreshTube">Refresh</button>
+        </div>
+      </div>
+      <div id="storeMap" class="tab-pane">
+        <div class="storeMapContainerFrame">
+            <div id="storeMapContainer" class="storeMapContainer"></div>
+        </div>
+        <div id="storeHeatMapContainer" class="storeHeatMapContainer" style="display: none;">
+          <svg id="storeHeatMap" class="storeHeatMap" width="100%" height="100%" viewbox="0 0 3898 2520">
+          </svg>
+        </div>
+        <div class="storeMapHeader"></div>
+        <button type="button" class="btn btn-primary storeHeatMap-Refresh js-refreshStore">Refresh</button>
+      </div>
+      <div id="about" class="tab-pane">
+        <div class="container">
+          <div class="row">
+            <div class="aboutContainer">TBA.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </body>
+</html>

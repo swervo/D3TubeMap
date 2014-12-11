@@ -1,0 +1,53 @@
+.tubeMapContainer {
+    position: absolute;
+    width: 100%;
+    top: 50px;
+    bottom: 0;
+}
+
+.tubeHeatMap {
+    position: absolute;
+    top: 0;
+}
+
+.tubeHeatMap-Refresh {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    opacity: 0.2;
+    transition: opacity 0.2s;
+}
+
+.tubeHeatMap-Refresh:hover {
+    opacity: 1;
+}
+
+.visitCount {
+    font-size: 28px;
+    font-family: sans-serif;
+    fill: #FAEBD7;
+    alignment-baseline: central;
+}
+
+.enter {
+    /* red */
+    fill: rgba(204, 0, 0, 0.5);
+}
+
+.unchanged {
+    fill: rgba(0, 0, 0, 0.5);
+}
+
+.update {
+    /* blue */
+    fill: rgba(51, 51, 255, 0.5);
+}
+
+.exit {
+    /* yellow */
+    fill: rgba(255, 255, 204, 0.8);
+}
+
+.exit text {
+    fill: rgba(0, 0, 0, 0.8);
+}
